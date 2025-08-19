@@ -1,8 +1,9 @@
 # Actividad 2 - Aplicaciones Móviles
 
-# Modificaciona a un repositorio de github de aplicacion movil
-# Repositorio original: https://github.com/libsdl-org/SDL
-# Version: 2.32.4
+## Modificaciona a un repositorio de github de aplicacion movil
+La modificacion se realizo en base a un sample de SDL2, una libreria grafica multiplataforma
+## Repositorio original: https://github.com/libsdl-org/SDL
+## Version: 2.32.4
 
 ---
 ## 1. Repositorio original

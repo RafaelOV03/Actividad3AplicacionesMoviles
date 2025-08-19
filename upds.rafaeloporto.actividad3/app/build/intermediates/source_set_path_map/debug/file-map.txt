@@ -1,0 +1,7 @@
+upds.rafaeloporto.actividad3.app-pngs-0 /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/build/generated/res/pngs/debug
+upds.rafaeloporto.actividad3.app-resValues-1 /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/build/generated/res/resValues/debug
+upds.rafaeloporto.actividad3.app-packageDebugResources-2 /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+upds.rafaeloporto.actividad3.app-packageDebugResources-3 /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+upds.rafaeloporto.actividad3.app-merged_res-4 /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/build/intermediates/merged_res/debug
+upds.rafaeloporto.actividad3.app-debug-5 /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/src/debug/res
+upds.rafaeloporto.actividad3.app-main-6 /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/src/main/res

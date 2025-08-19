@@ -1,0 +1,2 @@
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/Android.mk
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/Application.mk

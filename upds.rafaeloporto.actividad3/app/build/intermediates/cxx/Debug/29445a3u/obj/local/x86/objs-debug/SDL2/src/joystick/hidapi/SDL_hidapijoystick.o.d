@@ -1,0 +1,89 @@
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/build/intermediates/cxx/Debug/29445a3u/obj/local/x86/objs-debug/SDL2/src/joystick/hidapi/SDL_hidapijoystick.o: \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/SDL_hidapijoystick.c \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../../SDL_internal.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../../dynapi/SDL_dynapi.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_config.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_platform.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/begin_code.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/close_code.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_config_android.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_assert.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_stdinc.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_log.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_atomic.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_endian.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_hints.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_timer.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_error.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_joystick.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_guid.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_mutex.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../SDL_sysjoystick.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../SDL_joystick_c.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_gamecontroller.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_rwops.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_sensor.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/SDL_hidapijoystick_c.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_hidapi.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../usb_ids.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/SDL_hidapi_rumble.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../../SDL_hints_c.h \
+  /home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../.././SDL_internal.h
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../../SDL_internal.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../../dynapi/SDL_dynapi.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_config.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_platform.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/begin_code.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/close_code.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_config_android.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_assert.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_stdinc.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_log.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_atomic.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_endian.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_hints.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_timer.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_error.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_joystick.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_guid.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_mutex.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../SDL_sysjoystick.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../SDL_joystick_c.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_gamecontroller.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_rwops.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_sensor.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/SDL_hidapijoystick_c.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/include/SDL_hidapi.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../usb_ids.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/SDL_hidapi_rumble.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../../SDL_hints_c.h:
+
+/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/jni/SDL/src/joystick/hidapi/../.././SDL_internal.h:

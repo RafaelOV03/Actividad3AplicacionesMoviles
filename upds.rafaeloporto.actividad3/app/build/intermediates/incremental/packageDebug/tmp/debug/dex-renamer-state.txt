@@ -1,0 +1,4 @@
+#Tue Aug 19 09:48:26 BOT 2025
+base.0=/home/kadirv/Escritorio/Actividad3AplicacionesMoviles/upds.rafaeloporto.actividad3/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

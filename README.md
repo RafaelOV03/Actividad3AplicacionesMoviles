@@ -1,9 +1,8 @@
 # Actividad 2 - Aplicaciones Móviles
 
 ## Modificaciona a un repositorio de github de aplicacion movil
-La modificacion se realizo en base a un sample de SDL2, una libreria multiplataforma, en este
-caso se realizo a partir de un sample llamado testgles.c, un programa que realiza una prueba de
-funcionamiento de la GPU mediante la libreria grafica openGLES
+La modificacion se realizo en base a un sample de SDL2, una libreria multiplataforma que maneja lenguaje c y c++, en este caso se realizo a partir de un sample llamado testgles.c, un programa
+que realiza una prueba de funcionamiento de la GPU mediante la libreria grafica openGLES
 
 ## Repositorio original: https://github.com/libsdl-org/SDL
 ## Version: 2.32.4

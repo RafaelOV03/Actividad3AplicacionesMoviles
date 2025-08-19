@@ -36,13 +36,13 @@
 ![Aplicación ejecutándose](./Imagenes/10.png)
 
 ## 11. Compilando nuevamente
-![Aplicación ejecutándose](./Imagenes/10.png)
+![Aplicación ejecutándose](./Imagenes/11.png)
 
 ## 12. Aplicacion con nombre distinto
-![Aplicación ejecutándose](./Imagenes/10.png)
+![Aplicación ejecutándose](./Imagenes/12.png)
 
 ## 13. Ejecutando aplicacion con los nuevos cambios
-![Aplicación ejecutándose](./Imagenes/10.png)
+![Aplicación ejecutándose](./Imagenes/13.png)
 ---
 
 **Autor:** Rafael Kadir Oporto Valencia
